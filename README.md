@@ -33,7 +33,7 @@ Bem-vindo ao meu perfil! Aqui compartilho meus projetos, estudos e minha evoluç
 ### ⚙️ Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
 </p>
 
 ### 🌐 Conhecimentos Básicos
