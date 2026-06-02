@@ -1,49 +1,54 @@
-# Olá, eu sou o Lucas! ⚡
+# Olá, eu sou Lucas David! 👋
 
-### 🧠 Desenvolvedor Back-End | Solucionando problemas através de código
+🎓 Técnico em Informática | 💻 Estudante de TI | 🐍 Python | ☕ Java
 
-Bem-vindo ao meu espaço! Aqui você vai encontrar meus principais projetos, automações e estudos voltados à arquitetura de software e banco de dados.
-
----
-
-## 🚀 Minha Jornada
-
-* 🎓 Graduando em **Análise e Desenvolvimento de Sistemas (ADS)**
-* 🏗️ Desenvolvendo aplicações robustas com foco em lógica de programação e APIs
-* 🛠️ Criando ferramentas utilitárias desktop e scripts de automação de processos
+Bem-vindo ao meu perfil! Aqui compartilho meus projetos, estudos e minha evolução na área de tecnologia enquanto busco minha primeira oportunidade profissional em TI.
 
 ---
 
-## 🛠️ Stack Tecnológica & Ecossistema
+## 🚀 Sobre mim
 
-### ⚙️ Arquitetura Back-End
-* <img src="https://shields.io" height="20" valign="middle" /> **Python** — Criação de scripts, automações e interfaces de mesa
-* <img src="https://shields.io" height="20" valign="middle" /> **Java** — Desenvolvimento de sistemas robustos e POO avançada
-* <img src="https://shields.io" height="20" valign="middle" /> **Spring Boot** — Construção de APIs REST seguras e escaláveis
+- 🎓 Técnico em Informática concluído em 2025
+- 📚 Estudando Python, Java e Banco de Dados
+- 🗄️ Conhecimentos em MySQL
+- 🔧 Experiência com manutenção e suporte básico de computadores
+- 📂 Utilização de Git e GitHub para versionamento de projetos
+- 🚀 Desenvolvendo projetos para aprimorar minhas habilidades técnicas
+- 🎯 Em busca da primeira oportunidade profissional na área de TI
 
-### 🗄️ Modelagem de Dados
-* <img src="https://shields.io" height="20" valign="middle" /> **MySQL** — Estruturação de bancos relacionais e otimização de queries
+## 🛠️ Tecnologias e Ferramentas
 
-### 🎨 Construção de Interfaces (Web & Desktop)
-* <img src="https://shields.io" height="20" valign="middle" /> **HTML5** & <img src="https://shields.io" height="20" valign="middle" /> **CSS3** — Estruturação e estilização visual essencial
-* <img src="https://shields.io" height="20" valign="middle" /> **JavaScript** — Manipulação dinâmica de elementos no Front-End
+### 💻 Programação
 
-### 💻 Ambiente & Produtividade
-* <img src="https://shields.io" height="20" valign="middle" /> **VS Code** & <img src="https://shields.io" height="20" valign="middle" /> **PyCharm** — Ambientes principais de desenvolvimento
-* <img src="https://shields.io" height="20" valign="middle" /> **Git** & <img src="https://shields.io" height="20" valign="middle" /> **GitHub** — Controle de versão e colaboração
-
----
-
-## 🎯 Objetivos de Carreira
-- [ ] Aprofundar em conceitos de microsserviços e mensageria
-- [ ] Contribuir ativamente em projetos de código aberto (Open Source)
-- [ ] Desenvolver um portfólio sólido com aplicações completas ponta a ponta
-
----
-
-## 📈 Métricas de Desenvolvimento
-
-<p align="left">
-  <img height="150" src="https://vercel.app" />
-  <img height="150" src="https://vercel.app" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
+
+### 🗄️ Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ⚙️ Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🌐 Conhecimentos Básicos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+---
+
+## 📫 Contato
+
+- LinkedIn: Seu LinkedIn
+- E-mail: Seu e-mail
+
+---
+
+> "A evolução acontece um commit de cada vez."
