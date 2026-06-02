@@ -1,41 +1,49 @@
-# Olá, seja bem-vindo! Eu sou o Lucas 👋
+# Olá, eu sou o Lucas! ⚡
 
-### 🚀 Backend Developer | Estudante de ADS
+### 🧠 Desenvolvedor Back-End | Solucionando problemas através de código
 
-Sou apaixonado por tecnologia, automação e arquitetura de software. Atualmente, foco meus estudos no desenvolvimento robusto de aplicações back-end, criação de ferramentas inteligentes de automação e modelagem de banco de dados.
-
----
-
-## 📊 Sobre Mim
-
-* 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas (ADS)
-* 💡 **Foco Atual:** Construção de APIs seguras, utilitários desktop e automação de processos
-* ⚙️ **Diferencial:** Código limpo, componentização de interfaces e lógica estruturada
-* 📫 **Contato:** [lucasdavidsilva17@gmail.com
+Bem-vindo ao meu espaço! Aqui você vai encontrar meus principais projetos, automações e estudos voltados à arquitetura de software e banco de dados.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🚀 Minha Jornada
 
-
-
-| Back-end & Core | Banco de Dados |
-| :---: | :---: |
-| <img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="Java" /> <img src="https://shields.io" alt="Spring" /> | <img src="https://shields.io" alt="MySQL" /> |
-
-<br />
-
-
-
-| Front-end Essencial | Ambiente de Desenvolvimento |
-| :---: | :---: |
-| <img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> <img src="https://shields.io" alt="JavaScript" /> | <img src="https://shields.io" alt="VS Code" /> <img src="https://shields.io" alt="PyCharm" /> <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" /> |
+* 🎓 Graduando em **Análise e Desenvolvimento de Sistemas (ADS)**
+* 🏗️ Desenvolvendo aplicações robustas com foco em lógica de programação e APIs
+* 🛠️ Criando ferramentas utilitárias desktop e scripts de automação de processos
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🛠️ Stack Tecnológica & Ecossistema
+
+### ⚙️ Arquitetura Back-End
+* <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **Python** — Criação de scripts, automações e interfaces de mesa
+* <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **Java** — Desenvolvimento de sistemas robustos e POO avançada
+* <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **Spring Boot** — Construção de APIs REST seguras e escaláveis
+
+### 🗄️ Modelagem de Dados
+* <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **MySQL** — Estruturação de bancos relacionais e otimização de queries
+
+### 🎨 Construção de Interfaces (Web & Desktop)
+* <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **HTML5** & <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **CSS3** — Estruturação e estilização visual essencial
+* <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **JavaScript** — Manipulação dinâmica de elementos no Front-End
+
+### 💻 Ambiente & Produtividade
+* <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **VS Code** & <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **PyCharm** — Ambientes principais de desenvolvimento
+* <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **Git** & <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **GitHub** — Controle de versão e colaboração
+
+---
+
+## 🎯 Objetivos de Carreira
+- [ ] Aprofundar em conceitos de microsserviços e mensageria
+- [ ] Contribuir ativamente em projetos de código aberto (Open Source)
+- [ ] Desenvolver um portfólio sólido com aplicações completas ponta a ponta
+
+---
+
+## 📈 Métricas de Desenvolvimento
 
 <p align="left">
-  <img height="160" src="https://vercel.app" />
-  <img height="160" src="https://vercel.app" />
+  <img height="150" src="https://vercel.app" />
+  <img height="150" src="https://vercel.app" />
 </p>
