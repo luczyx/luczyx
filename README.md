@@ -17,20 +17,20 @@ Bem-vindo ao meu espaço! Aqui você vai encontrar meus principais projetos, aut
 ## 🛠️ Stack Tecnológica & Ecossistema
 
 ### ⚙️ Arquitetura Back-End
-* <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **Python** — Criação de scripts, automações e interfaces de mesa
-* <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **Java** — Desenvolvimento de sistemas robustos e POO avançada
-* <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **Spring Boot** — Construção de APIs REST seguras e escaláveis
+* <img src="https://jsdelivr.net" width="22" height="22" valign="middle" /> **Python** — Criação de scripts, automações e interfaces de mesa
+* <img src="https://jsdelivr.net" width="22" height="22" valign="middle" /> **Java** — Desenvolvimento de sistemas robustos e POO avançada
+* <img src="https://jsdelivr.net" width="22" height="22" valign="middle" /> **Spring Boot** — Construção de APIs REST seguras e escaláveis
 
 ### 🗄️ Modelagem de Dados
-* <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **MySQL** — Estruturação de bancos relacionais e otimização de queries
+* <img src="https://jsdelivr.net" width="22" height="22" valign="middle" /> **MySQL** — Estruturação de bancos relacionais e otimização de queries
 
 ### 🎨 Construção de Interfaces (Web & Desktop)
-* <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **HTML5** & <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **CSS3** — Estruturação e estilização visual essencial
-* <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **JavaScript** — Manipulação dinâmica de elementos no Front-End
+* <img src="https://jsdelivr.net" width="22" height="22" valign="middle" /> **HTML5** & <img src="https://jsdelivr.net" width="22" height="22" valign="middle" /> **CSS3** — Estruturação e estilização visual essencial
+* <img src="https://jsdelivr.net" width="22" height="22" valign="middle" /> **JavaScript** — Manipulação dinâmica de elementos no Front-End
 
 ### 💻 Ambiente & Produtividade
-* <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **VS Code** & <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **PyCharm** — Ambientes principais de desenvolvimento
-* <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **Git** & <img src="https://githubusercontent.com" width="22" height="22" valign="middle" /> **GitHub** — Controle de versão e colaboração
+* <img src="https://jsdelivr.net" width="22" height="22" valign="middle" /> **VS Code** & <img src="https://jsdelivr.net" width="22" height="22" valign="middle" /> **PyCharm** — Ambientes principais de desenvolvimento
+* <img src="https://jsdelivr.net" width="22" height="22" valign="middle" /> **Git** & <img src="https://jsdelivr.net" width="22" height="22" valign="middle" /> **GitHub** — Controle de versão e colaboração
 
 ---
 
