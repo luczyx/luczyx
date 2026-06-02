@@ -1,6 +1,6 @@
 # Olá, eu sou Lucas David! 👋
 
-🎓 Técnico em Informática | 💻 Estudante de TI | 🐍 Python | ☕ Java
+🎓 Técnico em Informática | 💻 Estudante de Análise e Desenvolvimento de Sistemas | 🐍 Python | ☕ Java
 
 Bem-vindo ao meu perfil! Aqui compartilho meus projetos, estudos e minha evolução na área de tecnologia enquanto busco minha primeira oportunidade profissional em TI.
 
@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil! Aqui compartilho meus projetos, estudos e minha evoluç
 
 ## 🚀 Sobre mim
 
-- 🎓 Técnico em Informática concluído em 2025
+- 🎓 Técnico de suporte - concluído em 2026
 - 📚 Estudando Python, Java e Banco de Dados
 - 🗄️ Conhecimentos em MySQL
 - 🔧 Experiência com manutenção e suporte básico de computadores
