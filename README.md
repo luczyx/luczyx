@@ -1,6 +1,6 @@
 # Olá, eu sou Lucas David! 👋
 
-🎓 Técnico em Informática | 💻 Estudante de Análise e Desenvolvimento de Sistemas | 🐍 Python | ☕ Java
+🎓 Técnico de TI | 💻 Estudante de Análise e Desenvolvimento de Sistemas | 🐍 Python | ☕ Java
 
 Bem-vindo ao meu perfil! Aqui compartilho meus projetos, estudos e minha evolução na área de tecnologia enquanto busco minha primeira oportunidade profissional em TI.
 
