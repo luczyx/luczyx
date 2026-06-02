@@ -17,20 +17,20 @@ Bem-vindo ao meu espaço! Aqui você vai encontrar meus principais projetos, aut
 ## 🛠️ Stack Tecnológica & Ecossistema
 
 ### ⚙️ Arquitetura Back-End
-* <img src="https://unpkg.com" width="18" height="18" valign="middle" /> **Python** — Criação de scripts, automações e interfaces de mesa
-* <img src="https://unpkg.com" width="18" height="18" valign="middle" /> **Java** — Desenvolvimento de sistemas robustos e POO avançada
-* <img src="https://unpkg.com" width="18" height="18" valign="middle" /> **Spring Boot** — Construção de APIs REST seguras e escaláveis
+* <img src="https://shields.io" height="20" valign="middle" /> **Python** — Criação de scripts, automações e interfaces de mesa
+* <img src="https://shields.io" height="20" valign="middle" /> **Java** — Desenvolvimento de sistemas robustos e POO avançada
+* <img src="https://shields.io" height="20" valign="middle" /> **Spring Boot** — Construção de APIs REST seguras e escaláveis
 
 ### 🗄️ Modelagem de Dados
-* <img src="https://unpkg.com" width="18" height="18" valign="middle" /> **MySQL** — Estruturação de bancos relacionais e otimização de queries
+* <img src="https://shields.io" height="20" valign="middle" /> **MySQL** — Estruturação de bancos relacionais e otimização de queries
 
 ### 🎨 Construção de Interfaces (Web & Desktop)
-* <img src="https://unpkg.com" width="18" height="18" valign="middle" /> **HTML5** & <img src="https://unpkg.com" width="18" height="18" valign="middle" /> **CSS3** — Estruturação e estilização visual essencial
-* <img src="https://unpkg.com" width="18" height="18" valign="middle" /> **JavaScript** — Manipulação dinâmica de elementos no Front-End
+* <img src="https://shields.io" height="20" valign="middle" /> **HTML5** & <img src="https://shields.io" height="20" valign="middle" /> **CSS3** — Estruturação e estilização visual essencial
+* <img src="https://shields.io" height="20" valign="middle" /> **JavaScript** — Manipulação dinâmica de elementos no Front-End
 
 ### 💻 Ambiente & Produtividade
-* <img src="https://unpkg.com" width="18" height="18" valign="middle" /> **VS Code** & <img src="https://unpkg.com" width="18" height="18" valign="middle" /> **PyCharm** — Ambientes principais de desenvolvimento
-* <img src="https://unpkg.com" width="18" height="18" valign="middle" /> **Git** & <img src="https://unpkg.com" width="18" height="18" valign="middle" /> **GitHub** — Controle de versão e colaboração
+* <img src="https://shields.io" height="20" valign="middle" /> **VS Code** & <img src="https://shields.io" height="20" valign="middle" /> **PyCharm** — Ambientes principais de desenvolvimento
+* <img src="https://shields.io" height="20" valign="middle" /> **Git** & <img src="https://shields.io" height="20" valign="middle" /> **GitHub** — Controle de versão e colaboração
 
 ---
 
@@ -47,4 +47,3 @@ Bem-vindo ao meu espaço! Aqui você vai encontrar meus principais projetos, aut
   <img height="150" src="https://vercel.app" />
   <img height="150" src="https://vercel.app" />
 </p>
-
