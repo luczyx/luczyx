@@ -46,8 +46,8 @@ Bem-vindo ao meu perfil! Aqui compartilho meus projetos, estudos e minha evoluç
 
 ## 📫 Contato
 
-- LinkedIn: Seu LinkedIn
-- E-mail: Seu e-mail
+- LinkedIn: https://www.linkedin.com/in/lucas-david-silva-082aa43b2
+- E-mail: lucasdavidsilva17@gmail.com
 
 ---
 
