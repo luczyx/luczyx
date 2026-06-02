@@ -11,23 +11,25 @@ Sou apaixonado por tecnologia, automação e arquitetura de software. Atualmente
 * 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas (ADS)
 * 💡 **Foco Atual:** Construção de APIs seguras, utilitários desktop e automação de processos
 * ⚙️ **Diferencial:** Código limpo, componentização de interfaces e lógica estruturada
-* 📫 **Contato:** [Seu E-mail Aqui](mailto:seu_email@gmail.com)
+* 📫 **Contato:** [lucasdavidsilva17@gmail.com
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
 
-| Back-end & Core | Banco de Dados & Armazenamento |
+
+| Back-end & Core | Banco de Dados |
 | :---: | :---: |
-| <img src="https://jsdelivr.net" width="45" height="45" alt="Python" /> <img src="https://jsdelivr.net" width="45" height="45" alt="Java" /> <img src="https://jsdelivr.net" width="45" height="45" alt="Spring" /> | <img src="https://jsdelivr.net" width="45" height="45" alt="PostgreSQL" /> <img src="https://jsdelivr.net" width="45" height="45" alt="MySQL" /> |
+| <img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="Java" /> <img src="https://shields.io" alt="Spring" /> | <img src="https://shields.io" alt="MySQL" /> |
 
 <br />
 
 
+
 | Front-end Essencial | Ambiente de Desenvolvimento |
 | :---: | :---: |
-| <img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" /> <img src="https://jsdelivr.net" width="40" height="40" alt="CSS3" /> <img src="https://jsdelivr.net" width="40" height="40" alt="JavaScript" /> | <img src="https://jsdelivr.net" width="40" height="40" alt="VS Code" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Git" /> <img src="https://jsdelivr.net" width="40" height="40" alt="GitHub" /> |
+| <img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> <img src="https://shields.io" alt="JavaScript" /> | <img src="https://shields.io" alt="VS Code" /> <img src="https://shields.io" alt="PyCharm" /> <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" /> |
 
 ---
 
