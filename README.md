@@ -1,4 +1,4 @@
-# Olá, eu sou Lucas David! 👋
+# Olá, eu sou Lucas, ou melhor.. O luczyx! 👋
 
 🎓 Técnico de TI | 💻 Estudante de Análise e Desenvolvimento de Sistemas | 🐍 Python | ☕ Java
 
