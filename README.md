@@ -1,6 +1,5 @@
-# Olá, eu sou Lucas, ou melhor.. O luczyx! 👋
-
-🎓 Técnico de TI | 💻 Estudante de Análise e Desenvolvimento de Sistemas | 🐍 Python | ☕ Java
+# Olá, eu sou Lucas, ou melhor.. O luczyx!!
+ 💻 Estudante de Análise e Desenvolvimento de Sistemas | 🐍 Python | ☕ Java
 
 Bem-vindo ao meu perfil! Aqui compartilho meus projetos, estudos e minha evolução na área de tecnologia enquanto busco minha primeira oportunidade profissional em TI.
 
@@ -8,7 +7,7 @@ Bem-vindo ao meu perfil! Aqui compartilho meus projetos, estudos e minha evoluç
 
 ## 🚀 Sobre mim
 
-- 🎓 Técnico de suporte - concluído em 2026
+- 🎓 Technical Support Fundamentals - concluído em 2026
 - 📚 Estudando Python, Java e Banco de Dados
 - 🗄️ Conhecimentos em MySQL
 - 🔧 Experiência com manutenção e suporte básico de computadores
